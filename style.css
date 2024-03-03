@@ -1,0 +1,19 @@
+#title{
+    font-weight: 200;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-color: aquamarine;
+    border-color: black;
+    text-align: center;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top:50px;
+    animation-iteration-count: infinite;
+}
